@@ -1,12 +1,5 @@
-beautifulsoup4
-matplotlib
-nltk
-nsepython
-numpy
 pandas
+numpy
+streamlit
 plotly
-pytz
-Requests
-lxml
-huggingface-hub
 duckdb
