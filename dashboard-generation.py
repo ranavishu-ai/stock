@@ -195,8 +195,8 @@ with col_2:
 
 st.markdown(
     """
-- [github repo](https://github.com/Shubxam/Nifty-500-Live-Sentiment-Analysis)
-- [Companion Article](https://xumitcapital.medium.com/sentiment-analysis-dashboard-using-python-d40506e2709d)
+- [github repo](https://github.com/ranavishu-ai/stock.git)
+- [Companion Article]
 """
 )
 st.markdown("This is a treemap generated using python, plotly and streamlit.")
